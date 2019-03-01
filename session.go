@@ -9,9 +9,9 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/Rhymen/go-whatsapp/crypto/cbc"
-	"github.com/Rhymen/go-whatsapp/crypto/curve25519"
-	"github.com/Rhymen/go-whatsapp/crypto/hkdf"
+	"github.com/matterbridge/go-whatsapp/crypto/cbc"
+	"github.com/matterbridge/go-whatsapp/crypto/curve25519"
+	"github.com/matterbridge/go-whatsapp/crypto/hkdf"
 )
 
 /*

@@ -14,8 +14,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/Rhymen/go-whatsapp/binary"
-	"github.com/Rhymen/go-whatsapp/crypto/cbc"
+	"github.com/matterbridge/go-whatsapp/binary"
+	"github.com/matterbridge/go-whatsapp/crypto/cbc"
 	"github.com/gorilla/websocket"
 )
 
